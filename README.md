@@ -1,4 +1,5 @@
 # Group 2 
+# AI-Powered Deepfake Detection & Media Integrity System
 ## (COMP6002 - Computer Science Project, Curtin University)
 
 ### This repository contains the weekly reports for project.
