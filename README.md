@@ -1,5 +1,5 @@
 # Group 2 
-# AI-Powered Deepfake Detection & Media Integrity System
+# Content Media Authenticity - Secure Video Verification
 ## (COMP6002 - Computer Science Project, Curtin University)
 
 ### This repository contains the weekly reports for project.
